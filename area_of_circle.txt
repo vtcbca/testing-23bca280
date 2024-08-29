@@ -1,0 +1,15 @@
+
+//write a program for area and circumference of circle
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+		clrscr();
+		double c,r,area;
+		cout<<"enter radius of circle"<<r;
+		area=3.1416*r*r;
+		cout<<"enter area of circle"<<area;
+		c=2*3.1416*r;
+		cout<<"enter circumfereces of circle"<<c;
+		getch();
+}
